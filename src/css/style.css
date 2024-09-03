@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+th {
+    background-color: rgb(232, 232, 145);
+}
